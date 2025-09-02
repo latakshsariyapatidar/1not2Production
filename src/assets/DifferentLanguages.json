@@ -1,0 +1,42 @@
+    {
+  "contactUs": [
+    "Contact Us",
+    "联系我们",
+    "Contáctanos",
+    "Contactez-nous",
+    "Kontaktiere uns",
+    "Contact Us"
+  ],
+  "aboutUs": [
+    "About Us",
+    "关于我们",
+    "Acerca de nosotros",
+    "À propos de nous",
+    "Über uns",
+    "About Us"
+  ],
+  "works": [
+    "Works",
+    "作品",
+    "Trabajos",
+    "Travaux",
+    "Arbeiten",
+    "Works"
+  ],
+  "email": [
+    "EMAIL",
+    "电子邮件",
+    "CORREO",
+    "EMAIL",
+    "E-MAIL",
+    "EMAIL"
+  ],
+  "phone": [
+    "PHONE",
+    "电话",
+    "TELÉFONO",
+    "TÉLÉPHONE",
+    "TELEFON",
+    "PHONE"
+  ]
+}
