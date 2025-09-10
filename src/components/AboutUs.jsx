@@ -41,6 +41,10 @@ function AboutUs({ onNavigateToHome }) {
     {
       name: "Ricky Charan",
       role: "Assistant Cameraman"
+    },
+    {
+      name: "Vedant Ghodke",
+      role: "Creative Head"
     },{
         name: "Lataksh Sariya",
         role: "Technical Lead (Web)"
