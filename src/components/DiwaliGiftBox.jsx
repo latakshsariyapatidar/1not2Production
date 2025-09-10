@@ -163,7 +163,7 @@ const DiwaliGiftBox = () => {
                   <div className="relative mx-auto w-48 h-72 sm:w-56 sm:h-80 md:w-64 md:h-96 rounded-2xl overflow-hidden shadow-2xl border-4 border-yellow-500">
                     {/* Placeholder movie poster - replace with your actual poster */}
                     <img
-                      src="public\moviePoster\IMG-20250822-WA0046.jpg"
+                      src="public/moviePoster/IMG-20250822-WA0046.jpg"
                       alt="Movie Poster"
                       className="w-full h-full object-cover"
                       onError={(e) => {
