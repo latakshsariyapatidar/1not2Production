@@ -1,51 +1,44 @@
-# OneNottwo Production - Official Website
+# 1NOT2 Production - Movie Production House Website
 
-A modern, responsive production house website built with React, featuring smooth page transitions, 3D animations, and multilingual support.
+![1NOT2 Production](https://img.shields.io/badge/1NOT2-Production-red?style=for-the-badge)
+![React](https://img.shields.io/badge/React-18.0+-blue?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0+-green?style=for-the-badge&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-Latest-purple?style=for-the-badge&logo=vite)
 
 ## 🎬 Overview
 
-OneNottwo Production is a cutting-edge film production house website that showcases the company's portfolio, team, and services. The site features a sleek dark theme, animated elements, and an immersive user experience.
+**1NOT2 Production** is a modern, responsive movie production house website built with React and TailwindCSS. The website features smooth page transitions, 3D interactive elements, animated loaders, and a comprehensive showcase of the production team and their works.
 
-## ✨ Features
+### 🌟 Key Features
 
-### 🎨 **Design & UI**
-- **Dark Theme**: Elegant black/gray color scheme with red accents
-- **Custom Typography**: Heathergreen and Akshar fonts for unique branding
-- **Responsive Design**: Optimized for desktop, tablet, and mobile devices
-- **Custom Cursor**: MouseFollower component for enhanced interactivity
+- **🎭 Interactive 3D Clapperboard**: Immersive 3D model viewer using React Three Fiber
+- **🎬 Frame Sequence Loader**: Custom 120-frame animation loader with preloading
+- **🔄 Smooth Page Transitions**: Hardware-accelerated slide transitions between pages  
+- **📱 Fully Responsive**: Optimized for all devices (mobile, tablet, desktop)
+- **🎨 Modern UI/UX**: Dark theme with custom fonts and animations
+- **🎯 Custom Cursor**: MouseFollower component for enhanced user interaction
+- **🌐 Multi-language Support**: LanguageCycler component with international text
+- **🎁 Diwali Special**: Interactive gift box with movie release announcement
+- **📊 Performance Optimized**: Memoized components and lazy loading
 
-### 🎭 **Interactive Elements**
-- **3D Clapperboard**: Interactive Three.js/React Three Fiber 3D model viewer
-- **Frame Sequence Loader**: 120-frame animated loader using Canvas API
-- **Smooth Page Transitions**: Custom slide animations between pages
-- **Language Cycling**: Multilingual text cycling through different languages
+## 🚀 Live Demo
 
-### 📱 **Pages & Navigation**
-- **Home**: Main landing page with company branding and navigation
-- **Works**: Portfolio showcase with movie posters and filtering
-- **Contact**: Contact information with social media links
-- **About**: Team members and company information
+Visit the live website: [1NOT2 Production](https://your-domain.com)
 
-### 🔧 **Technical Features**
-- **React 18**: Modern React with hooks and functional components
-- **GSAP Animations**: Smooth character and UI animations
-- **Three.js Integration**: 3D model rendering and interactions
-- **Vite Build System**: Fast development and optimized builds
-- **Tailwind CSS**: Utility-first styling with custom configurations
+## 📋 Table of Contents
 
-## 🛠 Tech Stack
-
-| Technology | Purpose | Version |
-|------------|---------|---------|
-| **React** | Frontend Framework | 18.x |
-| **Vite** | Build Tool & Dev Server | Latest |
-| **Three.js** | 3D Graphics | Latest |
-| **React Three Fiber** | React Three.js Integration | Latest |
-| **GSAP** | Animation Library | Latest |
-| **Tailwind CSS** | Styling Framework | Latest |
-| **Canvas API** | Frame Sequence Animation | Native |
-
-## 📁 Project Structure
+- [Installation](#installation)
+- [Project Structure](#project-structure)
+- [Components Overview](#components-overview)
+- [Pages](#pages)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Development Setup](#development-setup)
+- [Build & Deployment](#build--deployment)
+- [Team](#team)
+- [Social Media](#social-media)
+- [Contributing](#contributing)
+- [License](#license)
 
 ```
 onenottwoproduction/

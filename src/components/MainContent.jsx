@@ -3,6 +3,7 @@ import Header from "./Header";
 import MouseFollower from "./MouseFollower";
 import Footer from "./Footer";
 import ClapperBoard from "./ClapperBoard";
+import DiwaliGiftBox from "./DiwaliGiftBox";
 
 function MainContent({ onNavigateToContact, onNavigateToWorks, onNavigateToAbout }) {
   const [showClapperBoard, setShowClapperBoard] = useState(false);
@@ -50,6 +51,8 @@ function MainContent({ onNavigateToContact, onNavigateToWorks, onNavigateToAbout
         <Footer onNavigateToWorks={onNavigateToWorks} onNavigateToAbout={onNavigateToAbout} />
       </div>
       
+      {/* Diwali Gift Box - Fixed position floating element */}
+      <DiwaliGiftBox />
       
     </div>
   );
