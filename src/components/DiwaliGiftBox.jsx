@@ -173,13 +173,7 @@ const DiwaliGiftBox = () => {
                       }}
                     />
                     {/* Fallback poster design */}
-                    <div className="hidden w-full h-full bg-gradient-to-br from-orange-600 to-red-700 items-center justify-center">
-                      <div className="text-center text-white p-4">
-                        <div className="text-4xl mb-2">🎬</div>
-                        <div className="text-lg font-bold mb-1">OneNottwo</div>
-                        <div className="text-sm">Production</div>
-                      </div>
-                    </div>
+                    
                     {/* Poster shine effect */}
                     <div className="absolute inset-0 bg-gradient-to-tr from-transparent via-white/10 to-transparent"></div>
                   </div>
